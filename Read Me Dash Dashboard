@@ -1,0 +1,12 @@
+# IBM Data Science Capstone - Dash Dashboard
+
+This is my final project for the IBM Data Science Professional Certificate on Coursera.
+
+## Files
+- `app.py` – Dash app script
+- `spacex_launch_dash.csv` – Data file
+
+## How to Run
+```bash
+pip install dash pandas plotly
+python app.py
